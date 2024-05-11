@@ -19,6 +19,15 @@
     extensions = [
       # "vscodevim.vim"
       "franneck94.vscode-c-cpp-dev-extension-pack"
+      "13xforever.language-x86-64-assembly"
+      "bbenoist.Doxygen"
+      "cheshirekow.cmake-format"
+      "cschlosser.doxdocgen"
+      "franneck94.c-cpp-runner"
+      "franneck94.vscode-c-cpp-config"
+      "jeff-hykin.better-cpp-syntax"
+      "twxs.cmake"
+      "vadimcn.vscode-lldb"
     ];
     # Enable previews
     previews = {
